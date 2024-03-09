@@ -12,4 +12,6 @@ from github
 
 > docker run -d -p 8501:8501 --name mycontainertest myrepoimg
 
+after open browser and go to localhost:8501, without https
+
 
