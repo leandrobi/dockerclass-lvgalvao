@@ -6,4 +6,10 @@ run with docker:
 
 > docker run -d -p 8501:8501 --name meu-container-com-st minha-primeira-imagem
 
+from github
+
+> docker build https://github.com/leandrobi/dockerclass-lvgalvao.git -t myrepoimg
+
+> docker run -d -p 8501:8501 --name mycontainertest myrepoimg
+
 
