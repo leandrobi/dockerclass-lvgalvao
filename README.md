@@ -15,7 +15,7 @@ from github
 after open browser and go to localhost:8501, without https
 
 to stop, run:
-docker stop mycontainertest
+> docker stop mycontainertest
 
 to delete after test, run:
 > docker rm mycontainertest
